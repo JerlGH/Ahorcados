@@ -108,7 +108,7 @@ namespace Juego
             if (control == Palabra1.Length)
             {
                 PTeclado.Enabled = false;
-                LBMensage.Text = "¡Has Ganado!";
+                LBMensage.Text = "¡Felicidades, Ganaste!";
                 LBMensage.ForeColor = Color.Green;
                 LBMensage.Visible = true;
                 control = 0;
