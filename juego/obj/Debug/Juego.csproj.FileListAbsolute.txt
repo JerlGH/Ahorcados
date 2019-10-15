@@ -1,0 +1,43 @@
+c:\users\dell\documents\visual studio 2015\Projects\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\Dell\Desktop\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\Dell\Desktop\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Dell\Desktop\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.Form1.resources
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.exe
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.pdb
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.Juego.resources
+C:\Users\Dell\Desktop\Juego\Juego\obj\Debug\Juego.MenuInstrucciones.resources
+C:\Users\Dell\Desktop\Juego - copia\Juego\bin\Debug\Juego.exe.config
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.exe
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.pdb
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.Form1.resources
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.Juego.resources
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.MenuInstrucciones.resources
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\Dell\Desktop\Juego - copia\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Juego - copia\Juego\bin\Debug\Juego.exe
+C:\Users\Dell\Desktop\Juego - copia\Juego\bin\Debug\Juego.pdb
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\bin\Debug\Juego.exe.config
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.exe
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.pdb
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.Form1.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.Juego.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.MenuInstrucciones.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.Properties.Resources.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\bin\Debug\Juego.exe
+D:\Jerling\Clases\Semestre  5to\POO\Juego - copia - copia\Juego\bin\Debug\Juego.pdb
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\bin\Debug\Juego.exe.config
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.exe
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.pdb
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.Form1.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.Juego.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.MenuInstrucciones.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.Properties.Resources.resources
+D:\Jerling\Clases\Semestre  5to\POO\Juego final\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
